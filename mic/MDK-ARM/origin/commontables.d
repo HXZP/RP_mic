@@ -1,0 +1,10 @@
+.\origin\commontables.o: D:\keil5old\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\DSP\Source\CommonTables\CommonTables.c
+.\origin\commontables.o: D:\keil5old\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\DSP\Source\CommonTables\arm_common_tables.c
+.\origin\commontables.o: D:\keil5old\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\DSP\Include\arm_math.h
+.\origin\commontables.o: ../Drivers/CMSIS/Include/cmsis_compiler.h
+.\origin\commontables.o: D:\keil5old\ARM\ARMCC\Bin\..\include\stdint.h
+.\origin\commontables.o: ../Drivers/CMSIS/Include/cmsis_armcc.h
+.\origin\commontables.o: D:\keil5old\ARM\ARMCC\Bin\..\include\string.h
+.\origin\commontables.o: D:\keil5old\ARM\ARMCC\Bin\..\include\math.h
+.\origin\commontables.o: D:\keil5old\ARM\ARMCC\Bin\..\include\float.h
+.\origin\commontables.o: D:\keil5old\ARM\ARMCC\Bin\..\include\limits.h

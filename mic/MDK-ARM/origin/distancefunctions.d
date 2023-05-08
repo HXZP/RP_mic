@@ -1,0 +1,10 @@
+.\origin\distancefunctions.o: D:\keil5old\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\DSP\Source\DistanceFunctions\DistanceFunctions.c
+.\origin\distancefunctions.o: D:\keil5old\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\DSP\Source\DistanceFunctions\arm_boolean_distance.c
+.\origin\distancefunctions.o: D:\keil5old\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\DSP\Include\arm_math.h
+.\origin\distancefunctions.o: ../Drivers/CMSIS/Include/cmsis_compiler.h
+.\origin\distancefunctions.o: D:\keil5old\ARM\ARMCC\Bin\..\include\stdint.h
+.\origin\distancefunctions.o: ../Drivers/CMSIS/Include/cmsis_armcc.h
+.\origin\distancefunctions.o: D:\keil5old\ARM\ARMCC\Bin\..\include\string.h
+.\origin\distancefunctions.o: D:\keil5old\ARM\ARMCC\Bin\..\include\math.h
+.\origin\distancefunctions.o: D:\keil5old\ARM\ARMCC\Bin\..\include\float.h
+.\origin\distancefunctions.o: D:\keil5old\ARM\ARMCC\Bin\..\include\limits.h

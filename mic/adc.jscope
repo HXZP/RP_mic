@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<JScopeProject>
+    <FileVersion major="1" minor="1" />
+    <Project>
+        <Configuration>
+            <JLink>
+                <Options Connection="1" IsRTTSession="0" IsRTTWithTimeStamp="1" SamplingPeriod="10" SerialNo="0" JTAG_IRPre="-1" JTAG_DRPre="-1" IP="" TargetDevice="Cortex-M4" TargetInterface="SWD" InterfaceSpeed="4000" />
+            </JLink>
+            <ScriptFile Name="D:\RP23赛季\9.代码\mic\adc.jscope\unspecified" />
+            <ElfFile Name="D:\RP23赛季\9.代码\mic\MDK-ARM\origin\origin.axf" />
+            <DataFile Name="C:\Users\HXZP\Desktop\22.csv" />
+            <RawFile Name="C:\Users\HXZP\Desktop\22.csv" />
+            <Scope>
+                <Options TimeResolutionUs="100000" />
+            </Scope>
+        </Configuration>
+        <Windows>
+            <Graph Show="1" />
+            <Watch Show="1" />
+        </Windows>
+        <SelectedSymbols>
+            <Symbol>
+                <Options Name="out_adc" Address="0x20000004" Type="float" TypeID="1" Size="4" GraphColorRed="255" GraphColorGreen="215" GraphColorBlue="0" YMinSampled="0" YMaxSampled="0" YAvgSampled="0" Offset="4" ShowInGraph="0" ACCoupling="0" YOffset="360" IsAutoConfig="0" YResolution="500" MaxValue="20" File="../Core/Src/main.c" Scope="0" DrawStyle="0" />
+            </Symbol>
+            <Symbol>
+                <Options Name="get" Address="0x20000000" Type="ushort" TypeID="7" Size="2" GraphColorRed="0" GraphColorGreen="255" GraphColorBlue="0" YMinSampled="0" YMaxSampled="0" YAvgSampled="0" Offset="8" ShowInGraph="1" ACCoupling="0" YOffset="0" IsAutoConfig="0" YResolution="500" MaxValue="80500" File="../Core/Src/main.c" Scope="0" DrawStyle="0" />
+            </Symbol>
+        </SelectedSymbols>
+    </Project>
+</JScopeProject>

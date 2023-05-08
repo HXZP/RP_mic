@@ -1,0 +1,10 @@
+.\origin\complexmathfunctions.o: D:\keil5old\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\DSP\Source\ComplexMathFunctions\ComplexMathFunctions.c
+.\origin\complexmathfunctions.o: D:\keil5old\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\DSP\Source\ComplexMathFunctions\arm_cmplx_conj_f32.c
+.\origin\complexmathfunctions.o: D:\keil5old\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\DSP\Include\arm_math.h
+.\origin\complexmathfunctions.o: ../Drivers/CMSIS/Include/cmsis_compiler.h
+.\origin\complexmathfunctions.o: D:\keil5old\ARM\ARMCC\Bin\..\include\stdint.h
+.\origin\complexmathfunctions.o: ../Drivers/CMSIS/Include/cmsis_armcc.h
+.\origin\complexmathfunctions.o: D:\keil5old\ARM\ARMCC\Bin\..\include\string.h
+.\origin\complexmathfunctions.o: D:\keil5old\ARM\ARMCC\Bin\..\include\math.h
+.\origin\complexmathfunctions.o: D:\keil5old\ARM\ARMCC\Bin\..\include\float.h
+.\origin\complexmathfunctions.o: D:\keil5old\ARM\ARMCC\Bin\..\include\limits.h

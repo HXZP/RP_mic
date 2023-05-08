@@ -1,0 +1,10 @@
+.\origin\supportfunctions.o: D:\keil5old\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\DSP\Source\SupportFunctions\SupportFunctions.c
+.\origin\supportfunctions.o: D:\keil5old\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\DSP\Source\SupportFunctions\arm_barycenter_f32.c
+.\origin\supportfunctions.o: D:\keil5old\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\DSP\Include\arm_math.h
+.\origin\supportfunctions.o: ../Drivers/CMSIS/Include/cmsis_compiler.h
+.\origin\supportfunctions.o: D:\keil5old\ARM\ARMCC\Bin\..\include\stdint.h
+.\origin\supportfunctions.o: ../Drivers/CMSIS/Include/cmsis_armcc.h
+.\origin\supportfunctions.o: D:\keil5old\ARM\ARMCC\Bin\..\include\string.h
+.\origin\supportfunctions.o: D:\keil5old\ARM\ARMCC\Bin\..\include\math.h
+.\origin\supportfunctions.o: D:\keil5old\ARM\ARMCC\Bin\..\include\float.h
+.\origin\supportfunctions.o: D:\keil5old\ARM\ARMCC\Bin\..\include\limits.h

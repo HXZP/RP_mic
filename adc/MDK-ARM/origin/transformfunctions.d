@@ -1,0 +1,10 @@
+.\origin\transformfunctions.o: D:\keil5old\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\DSP\Source\TransformFunctions\TransformFunctions.c
+.\origin\transformfunctions.o: D:\keil5old\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\DSP\Source\TransformFunctions\arm_bitreversal.c
+.\origin\transformfunctions.o: D:\keil5old\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\DSP\Include\arm_math.h
+.\origin\transformfunctions.o: ../Drivers/CMSIS/Include/cmsis_compiler.h
+.\origin\transformfunctions.o: D:\keil5old\ARM\ARMCC\Bin\..\include\stdint.h
+.\origin\transformfunctions.o: ../Drivers/CMSIS/Include/cmsis_armcc.h
+.\origin\transformfunctions.o: D:\keil5old\ARM\ARMCC\Bin\..\include\string.h
+.\origin\transformfunctions.o: D:\keil5old\ARM\ARMCC\Bin\..\include\math.h
+.\origin\transformfunctions.o: D:\keil5old\ARM\ARMCC\Bin\..\include\float.h
+.\origin\transformfunctions.o: D:\keil5old\ARM\ARMCC\Bin\..\include\limits.h

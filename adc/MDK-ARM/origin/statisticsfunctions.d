@@ -1,0 +1,10 @@
+.\origin\statisticsfunctions.o: D:\keil5old\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\DSP\Source\StatisticsFunctions\StatisticsFunctions.c
+.\origin\statisticsfunctions.o: D:\keil5old\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\DSP\Source\StatisticsFunctions\arm_entropy_f32.c
+.\origin\statisticsfunctions.o: D:\keil5old\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\DSP\Include\arm_math.h
+.\origin\statisticsfunctions.o: ../Drivers/CMSIS/Include/cmsis_compiler.h
+.\origin\statisticsfunctions.o: D:\keil5old\ARM\ARMCC\Bin\..\include\stdint.h
+.\origin\statisticsfunctions.o: ../Drivers/CMSIS/Include/cmsis_armcc.h
+.\origin\statisticsfunctions.o: D:\keil5old\ARM\ARMCC\Bin\..\include\string.h
+.\origin\statisticsfunctions.o: D:\keil5old\ARM\ARMCC\Bin\..\include\math.h
+.\origin\statisticsfunctions.o: D:\keil5old\ARM\ARMCC\Bin\..\include\float.h
+.\origin\statisticsfunctions.o: D:\keil5old\ARM\ARMCC\Bin\..\include\limits.h

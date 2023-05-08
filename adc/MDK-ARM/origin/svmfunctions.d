@@ -1,0 +1,10 @@
+.\origin\svmfunctions.o: D:\keil5old\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\DSP\Source\SVMFunctions\SVMFunctions.c
+.\origin\svmfunctions.o: D:\keil5old\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\DSP\Source\SVMFunctions\arm_svm_linear_init_f32.c
+.\origin\svmfunctions.o: D:\keil5old\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\DSP\Include\arm_math.h
+.\origin\svmfunctions.o: ../Drivers/CMSIS/Include/cmsis_compiler.h
+.\origin\svmfunctions.o: D:\keil5old\ARM\ARMCC\Bin\..\include\stdint.h
+.\origin\svmfunctions.o: ../Drivers/CMSIS/Include/cmsis_armcc.h
+.\origin\svmfunctions.o: D:\keil5old\ARM\ARMCC\Bin\..\include\string.h
+.\origin\svmfunctions.o: D:\keil5old\ARM\ARMCC\Bin\..\include\math.h
+.\origin\svmfunctions.o: D:\keil5old\ARM\ARMCC\Bin\..\include\float.h
+.\origin\svmfunctions.o: D:\keil5old\ARM\ARMCC\Bin\..\include\limits.h
